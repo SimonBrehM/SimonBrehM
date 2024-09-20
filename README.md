@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Simon ! :D
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
-- 📫 How to reach me simon.brehm@csilyon.fr
+
 
 <!---
 SimonBrehM/SimonBrehM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
