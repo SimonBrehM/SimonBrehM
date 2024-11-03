@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Engineering Student at EPITA.
+Freshman Computer Engineering Student at EPITA, expected Graduation 2029. Looking for new projects in software engineering !
 
 
 ## 🌐 Socials:
